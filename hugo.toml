@@ -1,5 +1,0 @@
-baseURL = 'https://bilgehanmehmet.github.io'
-languageCode = 'en-us'
-title = 'Mehmet'
-theme='papermod'
-publishDir='docs'
